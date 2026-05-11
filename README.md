@@ -8,13 +8,14 @@
 
 ---
 
-### 🧑‍💻 About me
+### 🧑‍💻 About Naraa
 
-- 🇲🇳 Mongolia-based engineer building **mobile & web** products
-- ⚙️ Daily stack: **React · React Native · Next.js**
-- 🏆 Competitive programming with **C++**
-- 🔓 Hacking my way through [pwn.college](https://github.com/NaraaDev/pwn-college) for fun
-- 📫 Reach me: `claude.munkhjargal@gmail.com`
+- 🥉 **ICPC Asian Regional** medalist
+- 🏆 **MNPC 2025**
+- 🚀 Software Engineer **@Unitel**
+- 💻 IT Engineer
+
+> 🌟 *Millions of my dreams will soon come true, one by one.*
 
 ---
 
