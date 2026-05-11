@@ -14,7 +14,7 @@
 
 - 🚀 **Software Engineer @ Unitel** — building mobile & web at scale
 - 🥉 **ICPC Asian Regional** medalist  ·  🏆 **MNPC 2025**
-- 💙 **Competitive programming lover** — алгоритм & C++ өдөр бүр
+- 💙 **Competitive programming lover** — Algorithms & Data Structures
 - 🔐 **Cyber security curious** — hacking through [pwn.college](https://github.com/NaraaDev/pwn-college)
 - 📱 Daily craft: **React · React Native · Next.js**
 - ☕ Powered by coffee, deadlines, and curiosity
