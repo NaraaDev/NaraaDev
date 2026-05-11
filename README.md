@@ -13,7 +13,6 @@
 - 🥉 **ICPC Asian Regional** medalist
 - 🏆 **MNPC 2025**
 - 🚀 Software Engineer **@Unitel**
-- 💻 IT Engineer
 
 > 🌟 *Millions of my dreams will soon come true, one by one.*
 
@@ -36,16 +35,7 @@
 
 <div align="center">
 
-<a href="https://github.com/NaraaDev">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaraaDev&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-</a>
-<a href="https://github.com/NaraaDev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaraaDev&layout=compact&theme=nord&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-</a>
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=NaraaDev&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="180" alt="Streak graph" />
+<img src="https://streak-stats.demolab.com?user=NaraaDev&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5" height="180" alt="Streak graph" />
 
 <br />
 
