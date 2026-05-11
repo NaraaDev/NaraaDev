@@ -54,16 +54,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Stack | About |
-|---------|-------|-------|
-| [**pwn-college**](https://github.com/NaraaDev/pwn-college) | Linux · Bash | Hacking writeups & Linux exploitation walkthroughs |
-
-> 💡 Бусад проектыг GitHub дээрээс үзнэ үү 👇
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NaraaDev&style=for-the-badge&color=88C0D0&label=PROFILE+VIEWS)
